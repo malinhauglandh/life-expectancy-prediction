@@ -1,0 +1,22 @@
+Column,Non-Null Count,Data Type
+Country,2864,object
+Region,2864,object
+Year,2864,int64
+Infant_deaths,2864,float64
+Under_five_deaths,2864,float64
+Adult_mortality,2864,float64
+Alcohol_consumption,2864,float64
+Hepatitis_B,2864,int64
+Measles,2864,int64
+BMI,2864,float64
+Polio,2864,int64
+Diphtheria,2864,int64
+Incidents_HIV,2864,float64
+GDP_per_capita,2864,int64
+Population_mln,2864,float64
+Thinness_ten_nineteen_years,2864,float64
+Thinness_five_nine_years,2864,float64
+Schooling,2864,float64
+Economy_status_Developed,2864,int64
+Economy_status_Developing,2864,int64
+Life_expectancy,2864,float64
